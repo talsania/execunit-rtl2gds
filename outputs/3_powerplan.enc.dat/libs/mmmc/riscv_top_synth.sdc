@@ -1,0 +1,1 @@
+/home/krishang/alu/synth/outputs/riscv_top_synth.sdc
